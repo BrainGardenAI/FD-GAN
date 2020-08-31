@@ -13,3 +13,6 @@ torch.egg-info/
 */**/*.so*
 */**/*.dylib*
 *~
+
+*.py[cod]
+*$py.class
